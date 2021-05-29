@@ -11,3 +11,5 @@ I'm learning about dotfiles thanks to Patrick Mcdonald.
 - Trackpad (Three Finger Drag and Tap to Click)
 - Git (Config and SSH)
 - Alfred (turn off Spotlight shortcut and use for alfred)
+- Snappy (turn off cmd+shift+4 for screenshots and use for Snappy)
+- Remove unwanted apps from mas-cli (within brewfile)
