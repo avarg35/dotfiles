@@ -10,3 +10,4 @@ I'm learning about dotfiles thanks to Patrick Mcdonald.
 - Finder Show Path Bar
 - Trackpad (Three Finger Drag and Tap to Click)
 - Git (Config and SSH)
+- Alfred (turn off Spotlight shortcut and use for alfred)
