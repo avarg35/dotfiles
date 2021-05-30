@@ -20,6 +20,8 @@ brew "mas"
 brew "nano"
 # Download YouTube videos from the command-line
 brew "youtube-dl"
+# UNIX shell (command interpreter)
+brew "zsh"
 # Bash scripts that integrate bat with various command-line tools
 brew "eth-p/software/bat-extras"
 # Application launcher and productivity software
