@@ -42,5 +42,4 @@ mas "SponsorBlock port for YouTube - Skip Sponsorships", id: 1532163541
 mas "The Unarchiver", id: 425424353
 mas "Things", id: 904280696
 mas "Wipr", id: 1320666476
-mas "Xcode", id: 497799835
 mas "Yubico Authenticator", id: 1497506650
