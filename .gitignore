@@ -1,2 +1,4 @@
 Brewfile.lock.json
 config/fish/config.fish
+
+.DS_Store
