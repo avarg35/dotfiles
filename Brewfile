@@ -28,19 +28,25 @@ brew "zsh"
 brew "eth-p/software/bat-extras"
 # Application launcher and productivity software
 cask "alfred"
+# iOS App Store alternative
+cask "altserver"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
+# Web browser
+cask "firefox"
 # Git client focusing on productivity
 cask "gitkraken"
-# Web browser
-cask "google-chrome"
+# Free and open-source media player
+cask "iina"
+# Adaptive brightness for external displays
+cask "lunar"
+# Desktop virtualization software
+cask "parallels"
+# Digital design and prototyping platform
+cask "sketch"
 mas "1Password 7", id: 1333542190
 mas "Adobe Lightroom", id: 1451544217
-mas "Affinity Photo", id: 824183456
-mas "Amphetamine", id: 937984704
 mas "Bear", id: 1091189122
-mas "Dark Mode for Safari", id: 1397180934
-mas "DuckDuckGo Privacy Essentials", id: 1482920575
 mas "Focus", id: 777233759
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft PowerPoint", id: 462062816
